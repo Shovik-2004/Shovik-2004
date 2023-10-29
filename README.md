@@ -15,7 +15,7 @@
         📫 How to reach me <strong>work.shovik@gmail.com</strong>
     </li>
     <li>
-        📄 Know about my experiences <strong>linkedin.com/in/shovikbanerjee2004</strong>
+        📄 Know about my experiences <strong>[linkedin.com/in/shovikbanerjee2004](https://www.linkedin.com/in/shovikbanerjee2004/)</strong>
     </li>
     <li>
         ⚡ Fun fact <strong>I think I am Funny😅</strong>
