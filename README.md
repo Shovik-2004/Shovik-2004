@@ -1,6 +1,6 @@
 ![logo](https://github.com/Shovik-2004/Shovik-2004/blob/98406d1f0350a1131c0af87fef397ab5673aca44/my_pic.png)
 <h1 align="center">Hi 👋, I'm Shovik Banerjee</h1>
-<h3 align="center">A passionate Web developer developer from India</h3>
+<h3 align="center">A passionate Website Developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shovik-2004&label=Profile%20views&color=0e75b6&style=flat" alt="shovik-2004" /> </p>
 <ul>
     <li>
