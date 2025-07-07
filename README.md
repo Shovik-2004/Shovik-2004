@@ -4,9 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shovik-2004&label=Profile%20views&color=0e75b6&style=flat" alt="shovik-2004" /> </p>
 <ul>
     <li>
-        🔭 I’m currently working on [My portfolio Website] <strong> https://shovikportfolio.netlify.app</strong>
-    </li>
-    <li>
         👨‍💻 All of my projects are available at <strong>https://github.com/Shovik-2004</strong>
     </li>
     <li>
