@@ -1,4 +1,4 @@
-![logo](https://github.com/Shovik-2004/Shovik-2004/blob/main/images.jpeg)
+![logo](https://github.com/Shovik-2004/Shovik-2004/blob/main/The-Ultimate-Checklist-for-Evaluating-AI-ML-Development-Services.webp)
 <h1 align="center">Hi 👋, I'm Shovik Banerjee</h1>
 <h3 align="center">A passionate Website Developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shovik-2004&label=Profile%20views&color=0e75b6&style=flat" alt="shovik-2004" /> </p>
